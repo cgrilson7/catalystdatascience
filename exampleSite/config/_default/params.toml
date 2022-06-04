@@ -4,7 +4,7 @@ contact_form_action = "#"
 description = "Data that works for you."
 image = "images/logo.png"
 logo = "images/logo.png"
-logo_width = "150px"
+logo_width = "180px"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
