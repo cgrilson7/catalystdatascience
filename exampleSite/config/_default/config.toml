@@ -1,9 +1,9 @@
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
+baseURL = "https://catalystdatascience.com/"
 disqusShortname = ""
 googleAnalytics = "G-5YYD8J9V48"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring-light"
-title = "Bigspring Light"
+title = "Catalyst Data Science"
 [markup.goldmark.renderer]
 unsafe = true
