@@ -15,7 +15,7 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [params.variables]
-black = "#000"
+black = "#fdebdb"
 body_color = "#453645"
 border_color = "#fdebdb"
 icon_font = "Font Awesome 5 Free"
