@@ -98,6 +98,7 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact/
-title: Data that works for you.
+title: Catalyst
+subtitle: Data that works for you.
 
 ---
