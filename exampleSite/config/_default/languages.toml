@@ -18,8 +18,8 @@ copyright = "Made in Maine, USA"
 #[de]
 #languageName = "De"
 #title = "Bigspring Hugo"
-#contentDir = "content/deutsch" # content/german
-#weight = 2
+contentDir = "content/english" # content/german
+# weight = 2
 ########### footer content ##########
 #footer_menu_left = "Firma"
 #footer_menu_middle = "Produkte"
