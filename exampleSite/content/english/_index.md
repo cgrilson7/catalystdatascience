@@ -1,7 +1,7 @@
 ---
 banner:
   title: Data that works for you.
-  image: images/banner-art.svg
+  image: images/hero.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
     laborum officiis necessitatibus
