@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "Catalyst"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -10,7 +10,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "Data that works for you."
 # copyright
-copyright = "Made in Maine, USA"
+copyright = "Made in Maine, USA.\nCopyright (c) 2022 Catalyst Data Science"
 
 
 
@@ -18,8 +18,8 @@ copyright = "Made in Maine, USA"
 #[de]
 #languageName = "De"
 #title = "Bigspring Hugo"
-contentDir = "content/english" # content/german
-# weight = 2
+#contentDir = "content/english" # content/german
+#weight = 2
 ########### footer content ##########
 #footer_menu_left = "Firma"
 #footer_menu_middle = "Produkte"
