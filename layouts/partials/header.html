@@ -34,6 +34,7 @@
           {{ end }}
 
           <!-- Language List -->
+          <!-- IGNORE
         {{ if .IsTranslated }}
         <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
           {{ $siteLanguages := site.Languages}}
@@ -54,7 +55,8 @@
           {{ end }}
         </select>
         {{ end }}
-        </ul>
+        </ul> 
+          END IGNORE -->
 
         {{ if site.Params.navigation_button.enable }}
         {{ with site.Params.navigation_button }}
