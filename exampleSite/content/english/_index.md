@@ -37,28 +37,20 @@ service:
   - title: Gain a deeper understanding of your customer
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Our bespoke analytics and AI solutions help uncover what makes your customer tick and provide recommendations to propel your business forward.
     button:
       enable: true
-      label: Check it out
+      label: Learn More
       link: "#"
   - title: Custom tools and business insights for accelerated growth.
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Harness your data with our robust, personalized suite of reporting and intelligence tools. Manifest the key drivers of your business; identify and address operational inefficiencies; develop a keen, data-driven strategy for the future.
     button:
       enable: true
-      label: Check it out
+      label: Explore
       link: "#"
 screenshot:
   enable: false
@@ -71,7 +63,7 @@ call_to_action:
   content: Whether you're just diving in, <br> or feeling lost in a sea of information, <br> we're here to help.
   button:
     enable: true
-    label: Contact Us
+    label: Free Consultation
     link: contact/
     
 ---
