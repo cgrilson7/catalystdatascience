@@ -37,7 +37,8 @@ service:
   - title: Gain a deeper understanding of your customer
     images:
     - images/service-1.png
-    content: Our bespoke analytics and AI solutions help uncover what makes your customer tick and provide recommendations to propel your business forward.
+    content: Our bespoke analytics and AI solutions help uncover what makes your customer
+      tick and provide recommendations to propel your business forward.
     button:
       enable: true
       label: Learn More
@@ -47,7 +48,10 @@ service:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Harness your data with our robust, personalized suite of reporting and intelligence tools. Manifest the key drivers of your business; identify and address operational inefficiencies; develop a keen, data-driven strategy for the future.
+    content: Harness your data with our robust, personalized suite of reporting and
+      intelligence tools. Manifest the key drivers of your business; identify and
+      address operational inefficiencies; develop a keen, data-driven strategy for
+      the future.
     button:
       enable: true
       label: Explore
@@ -60,10 +64,13 @@ call_to_action:
   enable: true
   title: Schedule a no-commitment introduction with a member of our team today.
   image: images/cta.svg
-  content: Whether you're just diving in, <br> or feeling lost in a sea of information, <br> we're here to help.
+  content: Whether you're just diving in, <br> or feeling lost in a sea of information,
+    <br> we're here to help.
   button:
     enable: true
     label: Free Consultation
     link: contact/
-    
+title: Catalyst Data Science
+subtitle: Data that works for you.
+
 ---
