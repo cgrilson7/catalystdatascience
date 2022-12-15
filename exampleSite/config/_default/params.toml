@@ -2,7 +2,7 @@ author = "Catalyst Data Science"
 blogCategoryType = "category"
 contact_form_action = "#"
 description = "Data that works for you."
-image = "images/logo.png"
+image = "images/favicon.ico"
 logo = "images/logo.png"
 logo_width = "180px"
 [cookies]
