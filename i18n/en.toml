@@ -5,7 +5,7 @@ other = "Read more"
 other="Translations"
 
 [error404]
-other = "We are really sorry but there seems to be nothing here."
+other = "We're sorry, but there appears to be nothing here."
 
 [yourname]
 other = "Your Name"
