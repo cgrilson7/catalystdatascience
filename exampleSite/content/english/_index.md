@@ -2,8 +2,7 @@
 banner:
   title: Data that works for you. Introducing - the age of intelligent action (iA).
   image: images/hero.svg
-  content: 
-  In today's ever-evolving world, with countless sources of increasingly complex information, one key to a successful business remains the same - understanding your customer through the lens of the data they provide. With an insufficient data strategy, that understanding can become muddied. Moreover, any action taken on that strategy is at best inefficient and at worst, actively hurting your business - as the saying goes, trash in, trash out. 
+  content: In today's ever-evolving world, with countless sources of increasingly complex information, one key to a successful business remains the same - understanding your customer through the lens of the data they provide. With an insufficient data strategy, that understanding can become muddied. Moreover, any action taken on that strategy is at best inefficient and at worst, actively hurting your business - as the saying goes, trash in, trash out. 
   
   At Catalyst, we isolate signals from the noise inherent to your data and leverage those signals through intelligent action (iA). Here, we believe that not only should your data work for you and your needs, but that it should *work* for you, like any other resource you employ.
 
